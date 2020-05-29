@@ -20,7 +20,7 @@
     <div id="main" class="container">
         <h3 class="page-header">Incluir Pais</h3>
        
-        <form action="ManterCliente.do" method="post">
+        <form action="ManterPais.do" method="post">
             <!-- area de campos do form -->
             <div class="row">
 				<div class="form-group col-md-12">

@@ -138,6 +138,7 @@ public class PaisDAO {
 		return menorarea;
 	}
 
+
 	public ArrayList<Pais> CriaVetor() {
 		ArrayList<Pais> retorno = new ArrayList<>();
 		String sqlSelect = "SELECT id, nome, populacao , area FROM pais.pais ;";
